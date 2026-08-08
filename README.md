@@ -21,7 +21,7 @@ Selim, Harrison Faure, Huadong Mo, Hemanshu Pota and Daoyi Dong.
 comparing LSTM, GRU and RNN architectures on the same corpus. 
 
 ## What's not here
-...
+A broader private archive contains additional projects, experiments and coursework that are not listed publicly.
 
 ## Currently
 
